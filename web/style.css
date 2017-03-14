@@ -1,0 +1,12 @@
+body {
+    background-color: white;
+    color: black;
+    font-family: Arial, sans-serif;
+    font-size: small;
+    margin: 0px;
+}
+
+.green-background {
+    background-color: green;
+
+}
