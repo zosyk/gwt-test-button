@@ -16,7 +16,7 @@ public class Example implements EntryPoint {
 
         Button button = new Button("Test Button");
 
-        VerticalPanel panelPrincipal3 = new VerticalPanel();//Esto es el panel central, donde se centra todo
+        VerticalPanel panelPrincipal3 = new VerticalPanel();//Esto es el panel central
         panelPrincipal3.setWidth("100%");
         panelPrincipal3.setHeight("100%");
         panelPrincipal3.setHorizontalAlignment(HasHorizontalAlignment.ALIGN_CENTER);
