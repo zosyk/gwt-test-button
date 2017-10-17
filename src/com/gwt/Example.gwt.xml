@@ -6,6 +6,6 @@
 
     <entry-point class='com.gwt.client.Example'/>
     <entry-point class='com.gwt.client.Example'/>
-    <entry-point class='com.gwt.client.Example'/>
+
 
 </module>
